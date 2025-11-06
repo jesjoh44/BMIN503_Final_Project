@@ -14,13 +14,19 @@ Use this template to complete your project throughout the course. Your Final Pro
 
 ## Overview {#sec-overview}
 
-Give a brief a description of your project and its goal(s), what data you are using to complete it, and what two faculty/staff in different fields you have spoken to about your project with a brief summary of what you learned from each person. Include a link to your final project GitHub repository.
+I am working with Dr. Michaela Anderson and Dr. Gabrielle Mezochow - both doctors in Pulmonary Medicine and Critical Care here at Penn. We are working with data from the Lung Transplant Outcomes Group (LTOG), a multi-center cohort study on the long term quality of life and survival of Lung Transplant patients. We are specifically examining the effect of bacterial pathogens on post-Lung Transplantation outcomes.
 
 ## Introduction {#sec-introduction}
 
-Describe the problem addressed, its significance, and some background to motivate the problem. This should extend what is in the @sec-overview.
+Infection is the leading cause of morbidity and mortality after lung transplantation, particularly within the first year post-transplant, and remains the highest among all solid organ transplants. (1). Bacterial infections predominate in the first month of transplant, often due to Hospital-acquired and multi-drug resistant organisms. From then on, recurrent infections are often problematic, especially considering the profound presuppression drugs required to prevent organ rejections. (2)
 
-Explain why your problem is interdisciplinary, what fields can contribute to its understanding, and incorporate background related to what you learned from meeting with faculty/staff.
+We aim to address the following in this project: what are risk factors associated with infection and infection-related death? What kinds of pathogens are common? Are these infections recurrent? There exists a need for a large resource on microbial data to better under the epidemiology of these infections. This project is interdisciplinary, connecting to the field of biomedical research, informatics, and microbiology. In my experience working in lung transplant research, and certainly in Dr. Anderson’s and Dr. Mezochow’s experience, many unknowns in transplant medicine lead to frustration, hesitation and unease from patients. Our hope is to contribute an incremental amount towards breaking down the barriers to understanding these life-saving surgeries.
+
+Sources so far:
+
+1.  Immunopathology of lung transplantation: from infection to rejection and vice versa - PubMed
+
+2.  Lung Transplantation \| New England Journal of Medicine
 
 ## Methods {#sec-methods}
 
